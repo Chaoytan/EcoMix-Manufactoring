@@ -1,6 +1,11 @@
 # EcoMix-Manufactoring
 Waste Management System
 
+## ERD
+
+<img width="2307" height="1607" alt="CMT221 Whole ERD drawio" src="https://github.com/user-attachments/assets/b1f7a708-7778-4faf-a70c-848a5e8aa106" />
+Clearer view: https://drive.google.com/file/d/13Ocdns9VlFY2VKFRczk8HPchs2jcQyQZ/view
+
 ## Screenshot of the Website
 
 <img width="1909" height="838" alt="Screenshot 2026-10-22 101216" src="https://github.com/user-attachments/assets/986a6229-2b75-4f28-8e9a-4851f463fc10" />
